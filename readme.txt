@@ -1,7 +1,7 @@
 === Miiverse oEmbed ===
 Contributors: marcusds
 Tags: nintendo,miiverse,oemmbed
-Requires at least: 
+Requires at least: 2.9.0
 Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
