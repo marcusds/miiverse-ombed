@@ -3,9 +3,10 @@
 Plugin Name: Miiverse oEmbed
 Plugin URI: https://github.com/marcusds/miiverse-ombed
 Description: Registers Nintendo Miiverse as an oEmbed in WordPress.
-Author: marcusds
 Version: 1.0
-Author URI: http://marcusds.ca/
+Author: marcusds
+Author URI: https://github.com/marcusds
+License: GPL2
 */
 
 wp_embed_register_handler( 'miiverse', '#https://miiverse\.nintendo\.net/posts/((?:[a-z][a-z]*[0-9]+[a-z0-9]*))#i', 'wp_embed_handler_miiverse' );
